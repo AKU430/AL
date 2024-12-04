@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f9761af374303714cb799534edc726b7
+guid: 92cafa88e58b156488003bfcd1d2103e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,13 +43,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 3, y: 3, z: 3, w: 3}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -108,18 +108,114 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Etc_4
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 193
+        width: 734
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb16a35f1d9ea441bad2f7d5f715f1f
+      internalID: 93034627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_6
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 194
+        width: 734
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d94395515c164d9be6bbfe0563dbb
+      internalID: 732962442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 670
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48121b8d47bcad498ad946ea1478acf
+      internalID: -41649448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Etc_0: -232411903
+      Etc_1: 1447974133
+      Etc_10: 502061316
+      Etc_11: 1424965431
+      Etc_12: -954479019
+      Etc_13: 2105992381
+      Etc_14: 1505430008
+      Etc_15: 1483204347
+      Etc_16: 1027388387
+      Etc_17: -501839228
+      Etc_18: 1995293468
+      Etc_19: -1413048719
+      Etc_2: 14581968
+      Etc_20: -1027372655
+      Etc_21: 1932082941
+      Etc_22: 1110790572
+      Etc_23: -1476110490
+      Etc_24: 856442968
+      Etc_25: -932853503
+      Etc_26: 751486149
+      Etc_27: -1230030217
+      Etc_28: -588745503
+      Etc_29: -350366650
+      Etc_3: -1089572732
+      Etc_30: -485291521
+      Etc_31: 1809777954
+      Etc_32: -115535751
+      Etc_4: 93034627
+      Etc_5: -563040088
+      Etc_6: 732962442
+      Etc_7: -1774453906
+      Etc_8: -41649448
+      Etc_9: 458214111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
